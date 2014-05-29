@@ -23,7 +23,7 @@ were purged.
 
 ## Installation
 
-The best way to install this plugin is with gem (once it's on rubygems):
+The best way to install this plugin is with gem:
 
     $ gem install knife-goiardi-event-log
 
