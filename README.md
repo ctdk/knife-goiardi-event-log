@@ -37,11 +37,6 @@ The best way to install this plugin is with gem:
 The steps at http://docs.opscode.com/plugin_knife_custom.html#install-a-plugin 
 also work.
 
-## TODO
-
-Being able to search on types of events, the modified object, etc. would be nice.
-This depends on changes in goiardi before the plugin can support it.
-
 ## License
 
 Copyright 2014, Jeremy Bingham (<jbingham@gmail.com>)
