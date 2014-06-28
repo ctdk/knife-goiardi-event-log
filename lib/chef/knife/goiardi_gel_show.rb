@@ -8,7 +8,7 @@ class Chef
 	require 'json'
       end
 
-      include Chef::Goiardi::KnifeHelpers
+      include Chef::Goiardi::Gel::KnifeHelpers
       
       banner "knife goiardi gel show [id]"
 
